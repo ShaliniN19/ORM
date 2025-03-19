@@ -46,7 +46,7 @@ admin.site.register(Movie,MovieAdmin)
 
 ## OUTPUT
 
-![alt text](<Screenshot 2025-03-19 143625.png>)
+![alt text](<Screenshot (3).png>)
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
